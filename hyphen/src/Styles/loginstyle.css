@@ -1,0 +1,97 @@
+
+
+.inputfield{
+    background-color: white !important;
+    border: none !important;
+    border-bottom: 2px solid gray !important;
+    margin-left: 2px !important;
+    border-radius: 4% !important;
+    color:#1E1E1E !important;
+}
+.inputfield:focus{
+    background-color: white !important;
+    border: none !important;
+    border-bottom: 2px solid gray !important;
+    margin-left: 2px !important;
+    border-radius: 4% !important;
+    color:#1E1E1E !important;
+}
+.inputfield::after{
+    background-color: white !important;
+    border: none !important;
+    border-bottom: 2px solid gray !important;
+    margin-left: 2px !important;
+    border-radius: 4% !important;
+    color:#1E1E1E !important;
+}
+.login-logo-img{
+    margin-left: 5%;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    border:2px solid rgb(237, 230, 230);
+}
+
+.loginbtn{
+    margin-left: 20%;
+    background-color: #0C4D99 !important;
+    border-radius: 0%;
+}
+.cancelbtn{
+    margin-left: 4%;
+}
+.global-container{
+    opacity:0.7;
+
+	height:auto;
+    width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+    background-size: cover;
+}
+.cardlogin{
+    margin-top: 7% !important;
+    width:370px !important;
+    margin-bottom: 8% !important;
+   
+}
+/*
+@media screen and(max-width:767px) and (max-width:1024px) {
+   
+body
+{
+   margin-left: 0 !important;
+}
+}*/
+form{
+	padding-top: 20px;
+	font-size: 14px;
+	margin-top: 30px;
+
+}
+
+.card-title{ font-weight:300; }
+
+.forgot{
+	font-size: 14px;
+	margin-top:20px;
+    margin-left: 4%;
+}
+
+
+.login-form{ 
+	width:330px;
+	margin:20px;
+}
+
+.sign-up{
+	text-align:center;
+	padding:20px 0 0;
+}
+
+.alert{
+	margin-bottom:-30px;
+	font-size: 13px;
+	margin-top:20px;
+}

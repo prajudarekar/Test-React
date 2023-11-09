@@ -1,0 +1,122 @@
+.companyProfilebox{
+    border:1px solid rgb(196, 195, 195);
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 15px;
+    margin-bottom: 4%;
+    background-color: #f5f5f5  ;
+}
+.pclientboxtitle1{
+    text-align: center;
+}
+.inputbox{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-radius: 0px;
+    background-color:#FFFFFF   ;
+    margin-left: 3%;
+
+}
+
+.inputbox:active{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-radius: 0px;
+
+}
+.inputbox::after{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-radius: 0px;
+
+}
+
+.inputbox:visited{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-radius: 0px;
+
+}
+
+.cityclient{
+    margin-left: 14% !important;
+}
+.clientonsubmit{
+    color:red;
+}
+.headprofilecompany{
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+    margin-left: 2%;
+}
+.logoimgbox{
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.companylogoimg{
+    width: 200px !important;
+    height: 200px !important;
+    border:1px solid gray;
+  
+}
+.companyfileprofile{
+    margin-top: 7%;
+    margin-right: 35%;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    
+}
+.ClientOnboardBox{
+    margin: 2%;
+}
+.featureClientOnboard{
+    border:1px solid rgb(196, 195, 195);
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 15px;
+    background-color: #f5f5f5  ;
+}
+.rightOneBoxClientOnboard{
+  /*  border:1px solid gray;
+    border-radius: 25px;
+    
+  */
+  
+  border:1px solid rgb(196, 195, 195);
+  margin-right: 1%;
+  margin-left: 1%;
+  border-radius: 15px;
+  margin-bottom: 4%;
+  background-color: #f5f5f5  ;  
+}
+
+.rightTwoBoxClientOnboard{
+   /* border:1px solid rgb(196, 195, 195);
+    margin-top: 15px;
+    border-radius: 25px; */
+    border:1px solid rgb(196, 195, 195);
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 15px;
+    margin-bottom: 4%;
+    background-color: #f5f5f5  ;
+    
+}
+.leftBoxClientOnboard{
+    border-radius: 25px;
+    border:1px solid gray;
+    padding:15px;
+
+}
+
+
+
+.clientSubmitbtn{
+    margin-left: 35%;
+    margin-right: 15px;
+}

@@ -1,0 +1,120 @@
+
+/*.rightsection{
+  background-color: red;
+}
+*/
+
+.box{
+  height:100vh;
+  width: auto;
+margin-left: 20px;   
+}
+.leftbar{
+  height:100vh;
+  width: auto;
+}
+.hyphensidebar{
+  width: 80px;
+  height: 800px;
+  
+}
+
+
+.hyphensidebar .dashboardicon{
+color:#FFF;
+font-size: 22px;
+margin-left: 35%;
+
+}
+.hyphensidebar .userprofile{
+  color:#FFF;
+  font-size: 27px;
+  margin-left: 35%;   
+}
+
+.hyphensidebar .hide-menu{
+  display: none;
+}
+        .hyphensidebar .cusomspace{
+          margin-top:150px;
+        }
+        .cusomspace{
+          padding-top:34px;
+        }
+.hyphensidebar  .sidebar-inner{
+  width: 80px;
+
+  background-color: #1D2020; 
+  display: 'flex' !important;
+   height: '100vh' !important;
+    overflow: 'scroll initial' !important;
+}
+
+.dashboardicon{
+padding-right: 4px;
+font-size: 20px;
+}
+
+.sidebar-inner{
+  width: 270px;
+  background-color: #1D2020; 
+  display:inline-table;
+   height: '100vh' !important;
+    overflow: 'scroll initial' !important;
+}
+
+
+
+.nav-link .customnav{
+
+  list-style: none !important;
+      color: #F5F5F5 !important;
+  font-size: 17px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+.nav-link{
+  display: inline-flex !important;
+  color:#F5F5F5 !important;
+  margin-top:2%;
+  margin-left: 5%;
+
+}
+
+.usernav{
+
+  list-style: none !important;
+      color: #F5F5F5;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-bottom: 27% !important;
+}
+
+
+
+.dashboardlogo
+{
+width: 190px;
+Padding:0px 0px 0px 0px;
+margin-left: 1px;
+margin-right: 2%;
+border:1px solid grey;
+
+}
+.dashboardlogo1
+{
+Padding:0px 0px 0px 0px;
+margin-right: 15%;
+margin-top: 4%;
+border:1px solid grey;
+
+}
+.dashboardlogoz
+{
+width: 50px;
+margin-right: 5%;
+padding-right: 20%;
+}

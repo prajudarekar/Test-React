@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: Open-Sans, Helvetica, Sans-Serif;
+  }
+  
+  .text-overflow {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .branch-name {
+    display: inline-block;
+    max-width: 200px;
+    
+  }
+  .loginheader {
+    color:blue !important;
+    font-size: 25px;
+    background-color: gainsboro;
+    font-weight: bold;
+  }
+
+  /*h1 {
+    font-size: 2.25rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:red;
+  }*/
+  
+  h2 {
+    font-size: 2.25rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:red;
+  
+  }
+  
+  h3 {
+    font-size: 1.75rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:red;
+  }
+  
+  p{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+  }
+  a {
+    color: #4154f1;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  /* Light Backgrounds */
+  .bg-primary-light {
+    background-color: #cfe2ff;
+    border-color: #cfe2ff;
+  }
+  
+  .bg-secondary-light {
+    background-color: #e2e3e5;
+    border-color: #e2e3e5;
+  }
+  
+  .bg-success-light {
+    background-color: #d1e7dd;
+    border-color: #d1e7dd;
+  }
+  
+  .bg-danger-light {
+    background-color: #f8d7da;
+    border-color: #f8d7da;
+  }
+  
+  .bg-warning-light {
+    background-color: #fff3cd;
+    border-color: #fff3cd;
+  }
+  
+  .bg-info-light {
+    background-color: #cff4fc;
+    border-color: #cff4fc;
+  }
+  
+  .bg-dark-light {
+    background-color: #d3d3d4;
+    border-color: #d3d3d4;
+  }
+  
+  #main {
+    margin-top: 60px;
+    padding: 20px 30px;
+    transition: all 0.3s;
+  }
+  
+  @media (max-width: 1199px) {
+    #main {
+      padding: 20px;
+    }
+  }
+  
+  
+  
+  /***** Div Block Center *******/
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  /*****Button ***********/
+  .button {
+    color: blue;
+    display: inline-block;
+  }
+  
+  /******** show and hide Contents *********/
+  .show {
+    display: block !important;
+  }
+  .hidden {
+    display: none !important;
+  }
+  .invisible {
+    visibility: hidden;
+  }
+  
+  
+  

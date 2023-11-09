@@ -1,0 +1,10 @@
+.temp{
+  background-color: rgb(69, 85, 131);
+}
+
+.hot{
+background-color: red;
+}
+.cold{
+  background-color: blueviolet;
+}

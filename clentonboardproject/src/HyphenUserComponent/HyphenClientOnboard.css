@@ -1,0 +1,51 @@
+.clientonsubmit{
+    color:red;
+}
+.headprofilecompany{
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
+.companylogoimg{
+    width: 200px !important;
+    height: 200px !important;
+    border:1px solid gray;
+}
+.companyfileprofile{
+    margin-top: 7%;
+    margin-right: 35%;
+}
+.ClientOnboardBox{
+    margin: 2%;
+}
+.featureClientOnboard{
+    border:1px solid rgb(196, 195, 195);
+    margin-right: 17%;
+    margin-left: 1%;
+    border-radius: 25px;
+}
+.rightOneBoxClientOnboard{
+    border:1px solid gray;
+    border-radius: 25px;
+    
+}
+
+.rightTwoBoxClientOnboard{
+    border:1px solid rgb(196, 195, 195);
+    margin-top: 15px;
+    border-radius: 25px;
+    
+}
+.leftBoxClientOnboard{
+    border-radius: 25px;
+    border:1px solid gray;
+    padding:15px;
+
+}
+
+
+
+.clientSubmitbtn{
+    margin-left: 35%;
+    margin-right: 15px;
+}

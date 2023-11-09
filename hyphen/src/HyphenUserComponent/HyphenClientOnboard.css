@@ -1,0 +1,38 @@
+.companylogoimg{
+    width: 100px;
+    height: auto;
+    border:1px solid gray;
+}
+.companyfileprofile{
+    margin-top: 7%;
+    margin-right: 35%;
+}
+.ClientOnboardBox{
+    margin: 2%;
+}
+.rightOneBoxClientOnboard{
+    border:1px solid gray;
+    border-radius: 25px;
+    
+}
+
+.rightTwoBoxClientOnboard{
+    border:1px solid gray;
+    margin-top: 15px;
+    border-radius: 25px;
+
+    
+}
+.leftBoxClientOnboard{
+    border-radius: 25px;
+    border:1px solid gray;
+    padding:15px;
+
+}
+
+
+
+.clientSubmitbtn{
+    margin-left: 35%;
+    margin-right: 15px;
+}
